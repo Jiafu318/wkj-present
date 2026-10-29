@@ -8,7 +8,7 @@
 
 ## 在线体验
 
-**👉 [https://keji-wang.github.io/wkj-present/](https://keji-wang.github.io/wkj-present/)**
+**👉 [https://jiafu318.github.io/wkj-present/](https://jiafu318.github.io/wkj-present/)**
 
 零安装，打开即玩：页面会自动加载内置的 12 套训练题库（AI 生成的虚构主题演示材料，每套约 15 页），点「启动演讲」就能完整体验下面这套流程。
 
@@ -29,12 +29,12 @@
 
 ### 在线使用（推荐）
 
-零安装。[GitHub Pages](https://keji-wang.github.io/wkj-present/) 上打开即用，内置题库自动加载；**刷新页面后内置题库也会自动重新加载**，不需要任何准备步骤。所有文件只在你的浏览器内存中处理，不经过任何服务器。
+零安装。[GitHub Pages](https://jiafu318.github.io/wkj-present/) 上打开即用，内置题库自动加载；**刷新页面后内置题库也会自动重新加载**，不需要任何准备步骤。所有文件只在你的浏览器内存中处理，不经过任何服务器。
 
 ### 本地运行
 
 ```bash
-git clone https://github.com/Keji-Wang/wkj-present.git
+git clone https://github.com/Jiafu318/wkj-present.git
 cd wkj-present
 python -m http.server 8000
 # 打开 http://localhost:8000
